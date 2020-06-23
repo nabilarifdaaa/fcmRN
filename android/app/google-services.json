@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "797526422928",
+    "firebase_url": "https://tryfirebase-449e5.firebaseio.com",
+    "project_id": "tryfirebase-449e5",
+    "storage_bucket": "tryfirebase-449e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797526422928:android:f8e0fdaf122b03d79daf15",
+        "android_client_info": {
+          "package_name": "com.tryfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797526422928-ibgi8534849qdc1gtv7ilsd6gr73jb38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJRXiP6av0DqM1IrmWEUWVGh6HlxWas1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797526422928-ibgi8534849qdc1gtv7ilsd6gr73jb38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797526422928:android:94790fb1433f4a0f9daf15",
+        "android_client_info": {
+          "package_name": "com.trywithhq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797526422928-ibgi8534849qdc1gtv7ilsd6gr73jb38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJRXiP6av0DqM1IrmWEUWVGh6HlxWas1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797526422928-ibgi8534849qdc1gtv7ilsd6gr73jb38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
